@@ -13,9 +13,12 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 /**
- *
+ * 
  * @author ivanp
  */
+
+             //https://github.com/IvanPopoff/HW4
+
 class Person {
     int id;
     String firstName;
